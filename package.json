@@ -2,7 +2,7 @@
   "name": "ez-config-resolver",
   "description": "Angular input config resolver",
   "keywords": [],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Joris de Wit",
   "license": "MIT",
   "repository": {
